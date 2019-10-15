@@ -16,9 +16,9 @@
 </p>
 
 <p align="center">
-  <a href="#teste">Sobre a Hubster</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#teste">Esboço</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#teste">Entrega</a>
+  <a href="#-sobre-a-hubster">Sobre a Hubster</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-esboço">Esboço</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-entrega">Entrega</a>
 </p>
 
 ## 🐹 Sobre a Hubster
