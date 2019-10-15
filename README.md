@@ -68,6 +68,17 @@ Abaixo estão descritas as funcionalidades que você deve adicionar em sua aplic
 
 Esse desafio **precisa ser entregue através de algum repositório** em até **7 dias** e será avaliado por nós de acordo com os pontos citados acima.
 
+## 💬 FAQ
+- O repositório do projeto no github deve ser mandado por email na data acordada na
+entrevista.
+- Mesmo se não tiver terminado todos os requisitos a tempo, envie o que fez. Tudo
+será avaliado.
+- Da mesma forma, se terminar o teste antes, aproveite o tempo restante para fazer
+melhorias no código. Aproveite o tempo da melhor maneira possível.
+- Fique a vontade para aplicar o design que quiser no projeto, só não fuja muito do
+esboço proposto. Mas não perca muito tempo com isso, foque primeiramente na
+usabilidade.
+
 ### Boa sorte!
 
 ---
