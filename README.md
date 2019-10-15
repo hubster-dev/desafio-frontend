@@ -79,6 +79,9 @@ melhorias no código. Aproveite o tempo da melhor maneira possível.
 esboço proposto. Mas não perca muito tempo com isso, foque primeiramente na
 usabilidade.
 
+## Contato
+Pode mandar um email para: vinicius.sales@hubster.com.br ou joao.matheus@hubster.com.br para tirar dúvidas.
+
 ### Boa sorte!
 
 ---
