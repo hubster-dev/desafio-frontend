@@ -17,7 +17,7 @@
 
 <p align="center">
   <a href="#-sobre-a-hubster">Sobre a Hubster</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-esboço">Esboço</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#️-esboço">Esboço</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-entrega">Entrega</a>
 </p>
 
