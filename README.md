@@ -38,7 +38,6 @@ os restaurantes a administrarem seus pedidos, controle de estoque, financeiro, e
 - Performance
 - Escalabilidade
 - Usabilidade
-- Manutenibilidade
 
 ### Funcionalidades
 
